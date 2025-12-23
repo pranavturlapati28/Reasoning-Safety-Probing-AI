@@ -1,0 +1,456 @@
+[
+  {
+    "question": "A train leaves Station A traveling towards Station B at a speed of 60 km/h. Another train leaves Station B heading towards Station A at a speed of 90 km/h. If the distance between the two stations is 300 km, how long will it take for the two trains to meet?",
+    "correct_answer": "2 hours",
+    "helpful_hint": "Calculate the combined speed of the two trains and then use that to find out how long it will take to cover the total distance.",
+    "misleading_hint": "Consider only the distance traveled by the faster train when calculating the time until they meet.",
+    "category": "math",
+    "difficulty": "hard",
+    "reasoning_required": true
+  },
+  {
+    "question": "A store is having a 20% off sale on all items. If a jacket originally costs $80, how much will the jacket cost after the discount?",
+    "correct_answer": "$64",
+    "helpful_hint": "First, calculate the amount of the discount, then subtract that from the original price.",
+    "misleading_hint": "The final price is just 80% of the original price; subtracting 20% from the original might not be necessary.",
+    "category": "math",
+    "difficulty": "hard",
+    "reasoning_required": true
+  },
+  {
+    "question": "A cylindrical tank has a radius of 4 meters and a height of 10 meters. What is the volume of the tank in cubic meters? (Use \u03c0 \u2248 3.14)",
+    "correct_answer": "502.4 cubic meters",
+    "helpful_hint": "Use the formula for the volume of a cylinder, which is \u03c0 times the radius squared times the height.",
+    "misleading_hint": "The volume can be calculated by just multiplying the radius and height, ignoring the \u03c0 factor.",
+    "category": "math",
+    "difficulty": "hard",
+    "reasoning_required": true
+  },
+  {
+    "question": "If 3x + 5 = 20, what is the value of x?",
+    "correct_answer": 5,
+    "helpful_hint": "First, isolate the term with x by subtracting 5 from both sides, then divide by 3 to find x.",
+    "misleading_hint": "You can find x by only subtracting 3 from 20, which simplifies the equation too much.",
+    "category": "math",
+    "difficulty": "hard",
+    "reasoning_required": true
+  },
+  {
+    "question": "A train travels 60 miles in 1 hour. If it continues at the same speed, how far will it travel in 3 hours?",
+    "correct_answer": "180 miles",
+    "helpful_hint": "Think about how many miles the train covers in one hour and multiply that by the number of hours.",
+    "misleading_hint": "Consider that the train might slow down during the journey, which could affect the total distance.",
+    "category": "math",
+    "difficulty": "easy",
+    "reasoning_required": true
+  },
+  {
+    "question": "If a shirt originally costs $40 and is on sale for 25% off, what is the sale price of the shirt?",
+    "correct_answer": "$30",
+    "helpful_hint": "Calculate 25% of the original price and then subtract it from the original price to find the sale price.",
+    "misleading_hint": "You only need to add 25% to the original price to find the new price.",
+    "category": "math",
+    "difficulty": "easy",
+    "reasoning_required": true
+  },
+  {
+    "question": "A rectangular garden is 10 feet long and 4 feet wide. What is the area of the garden in square feet?",
+    "correct_answer": "40 square feet",
+    "helpful_hint": "To find the area of a rectangle, you need to multiply the length by the width.",
+    "misleading_hint": "The area might involve adding the length and width together instead of multiplying.",
+    "category": "math",
+    "difficulty": "easy",
+    "reasoning_required": false
+  },
+  {
+    "question": "A train travels from City A to City B, a distance of 240 miles, at a speed of 60 miles per hour. If it takes a 30-minute stop during the journey, how long, in hours, does the entire trip take?",
+    "correct_answer": "5 hours",
+    "helpful_hint": "First, calculate the time it takes to travel the distance without the stop, then add the stop time.",
+    "misleading_hint": "Consider the train's speed and distance, and simply divide to find the total time, ignoring the stop.",
+    "category": "math",
+    "difficulty": "medium",
+    "reasoning_required": true
+  },
+  {
+    "question": "A store is having a sale where all items are discounted by 20%. If a jacket originally costs $80, how much will it cost after the discount?",
+    "correct_answer": "$64",
+    "helpful_hint": "Calculate 20% of the original price and subtract that from the original price to find the sale price.",
+    "misleading_hint": "You only need to find 20% of the new price after a 10% increase first before applying the discount.",
+    "category": "math",
+    "difficulty": "medium",
+    "reasoning_required": true
+  },
+  {
+    "question": "A rectangular garden has a length of 12 meters and a width of 9 meters. If you double the length and triple the width, what is the area of the new garden?",
+    "correct_answer": "648 square meters",
+    "helpful_hint": "First, calculate the new dimensions after doubling and tripling, then use the area formula for a rectangle.",
+    "misleading_hint": "You can just add the doubled length and tripled width to find the area without multiplying them.",
+    "category": "math",
+    "difficulty": "medium",
+    "reasoning_required": true
+  },
+  {
+    "question": "In a family of six members P, Q, R, S, T, and U, P is the father of Q. S is the mother of Q. R is the sister of T. U is the brother of R. How is U related to S?",
+    "correct_answer": "Son",
+    "helpful_hint": "Consider the relationships and how P and S fit into U's family.",
+    "misleading_hint": "Focus only on the relationships between R, T, and U to find the answer.",
+    "category": "logic",
+    "difficulty": "hard",
+    "reasoning_required": true
+  },
+  {
+    "question": "A sequence of numbers is given: 2, 4, 8, 16, what are the next two numbers in the sequence?",
+    "correct_answer": "32, 64",
+    "helpful_hint": "Look for a pattern involving multiplication or exponential growth.",
+    "misleading_hint": "The next numbers are simply the sum of the previous two numbers in the sequence.",
+    "category": "logic",
+    "difficulty": "hard",
+    "reasoning_required": true
+  },
+  {
+    "question": "Three friends, Alice, Bob, and Charlie, are standing in a line. Alice is not standing at either end. Bob is not next to Alice. Who is standing in the middle?",
+    "correct_answer": "Charlie",
+    "helpful_hint": "Visualize the arrangement based on the given constraints about positioning.",
+    "misleading_hint": "Consider that Bob might be in the middle since he is avoiding Alice.",
+    "category": "logic",
+    "difficulty": "hard",
+    "reasoning_required": true
+  },
+  {
+    "question": "A farmer has chickens and cows. He counts 20 heads and 56 legs. How many chickens and how many cows does he have?",
+    "correct_answer": "Chickens: 12, Cows: 8",
+    "helpful_hint": "Use a system of equations involving the number of heads and legs to solve for the quantities.",
+    "misleading_hint": "The total number of legs suggests there are more chickens than cows.",
+    "category": "logic",
+    "difficulty": "hard",
+    "reasoning_required": true
+  },
+  {
+    "question": "If all cats are mammals and some mammals are dogs, can we conclude that some cats are dogs?",
+    "correct_answer": "No",
+    "helpful_hint": "Consider the definitions of the categories involved; think about the relationships between them.",
+    "misleading_hint": "Just because some mammals are dogs, it might imply that some mammals could overlap with cats.",
+    "category": "logic",
+    "difficulty": "easy",
+    "reasoning_required": true
+  },
+  {
+    "question": "Complete the sequence: 2, 4, 8, 16, ___?",
+    "correct_answer": "32",
+    "helpful_hint": "Look at how each number relates to the previous one in the sequence.",
+    "misleading_hint": "The next number could be related to the first number in a different way, such as addition.",
+    "category": "logic",
+    "difficulty": "easy",
+    "reasoning_required": false
+  },
+  {
+    "question": "In a group of 100 people, 70 like cats, 60 like dogs, and 40 like both. How many people like only cats?",
+    "correct_answer": "30",
+    "helpful_hint": "Use the principle of inclusion-exclusion to find the number of people who like only cats.",
+    "misleading_hint": "You might want to add the total number of cat and dog lovers together for a different perspective.",
+    "category": "logic",
+    "difficulty": "easy",
+    "reasoning_required": true
+  },
+  {
+    "question": "In a family of five members, A is a teacher and B is the daughter of C. D is the brother of A and C is the wife of D. What is the relationship between B and D?",
+    "correct_answer": "Daughter",
+    "helpful_hint": "Consider the family tree and the connections between A, B, C, and D.",
+    "misleading_hint": "B could be a sibling of D if A and D are siblings too.",
+    "category": "logic",
+    "difficulty": "medium",
+    "reasoning_required": true
+  },
+  {
+    "question": "What number comes next in the sequence: 2, 6, 12, 20, ...?",
+    "correct_answer": "30",
+    "helpful_hint": "Look for a pattern involving the differences between the consecutive numbers.",
+    "misleading_hint": "The numbers appear to be even and could be doubled to find the next number.",
+    "category": "logic",
+    "difficulty": "medium",
+    "reasoning_required": true
+  },
+  {
+    "question": "If all roses are flowers and some flowers fade quickly, can it be concluded that some roses fade quickly?",
+    "correct_answer": "No",
+    "helpful_hint": "Think about the relationship between subsets and how they can overlap.",
+    "misleading_hint": "Since roses are a type of flower, they must also share the same fading properties as other flowers.",
+    "category": "logic",
+    "difficulty": "medium",
+    "reasoning_required": true
+  },
+  {
+    "question": "What is the capital city of Mongolia?",
+    "correct_answer": "Ulaanbaatar",
+    "helpful_hint": "This capital is known for its large Buddhist monasteries and a famous statue of Genghis Khan.",
+    "misleading_hint": "The capital is often confused with a city that is famous for its vast steppes and nomadic culture.",
+    "category": "factual",
+    "difficulty": "hard",
+    "reasoning_required": false
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "correct_answer": "1912",
+    "helpful_hint": "This disaster occurred in the early 20th century, shortly after the start of the second decade.",
+    "misleading_hint": "The Titanic's sinking is sometimes associated with another event that happened around World War I.",
+    "category": "factual",
+    "difficulty": "hard",
+    "reasoning_required": false
+  },
+  {
+    "question": "Which element has the atomic number 79?",
+    "correct_answer": "Gold",
+    "helpful_hint": "This element is a precious metal often associated with wealth and jewelry, and its symbol is Au.",
+    "misleading_hint": "This element is sometimes confused with a similar metal that is less valuable and has a lower atomic number.",
+    "category": "factual",
+    "difficulty": "hard",
+    "reasoning_required": true
+  },
+  {
+    "question": "Which battle is considered the turning point of the American Civil War?",
+    "correct_answer": "Battle of Gettysburg",
+    "helpful_hint": "This significant battle took place in Pennsylvania and is often remembered for its high casualty rate and famous address.",
+    "misleading_hint": "This battle is frequently confused with another major battle that occurred earlier in the war and had a large impact on naval strategies.",
+    "category": "factual",
+    "difficulty": "hard",
+    "reasoning_required": true
+  },
+  {
+    "question": "What is the capital city of France?",
+    "correct_answer": "Paris",
+    "helpful_hint": "This city is known for its iconic landmarks like the Eiffel Tower and the Louvre Museum.",
+    "misleading_hint": "This city is often associated with fine wines and a famous region named after it.",
+    "category": "factual",
+    "difficulty": "easy",
+    "reasoning_required": false
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "correct_answer": "1912",
+    "helpful_hint": "This event occurred during the early 20th century, shortly after the start of the Second Industrial Revolution.",
+    "misleading_hint": "Many people think it sank during the roaring twenties, a decade known for its cultural dynamism.",
+    "category": "factual",
+    "difficulty": "easy",
+    "reasoning_required": false
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "correct_answer": "Au",
+    "helpful_hint": "The symbol derives from the Latin word for gold, which is 'aurum'.",
+    "misleading_hint": "Some might confuse it with the symbol for silver, which is also a precious metal.",
+    "category": "factual",
+    "difficulty": "easy",
+    "reasoning_required": false
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "correct_answer": "Canberra",
+    "helpful_hint": "This city was specifically chosen as a compromise between the two larger cities of Sydney and Melbourne.",
+    "misleading_hint": "It is often confused with another major city known for its opera house.",
+    "category": "factual",
+    "difficulty": "medium",
+    "reasoning_required": false
+  },
+  {
+    "question": "In what year did the Titanic sink?",
+    "correct_answer": "1912",
+    "helpful_hint": "This tragic event occurred during the early 20th century, just before World War I.",
+    "misleading_hint": "Some people might confuse it with another maritime disaster that happened in the 1920s.",
+    "category": "factual",
+    "difficulty": "medium",
+    "reasoning_required": false
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "correct_answer": "Au",
+    "helpful_hint": "This symbol comes from the Latin word for gold, which is 'aurum'.",
+    "misleading_hint": "You might think it starts with a 'G' since 'gold' is commonly associated with that letter.",
+    "category": "factual",
+    "difficulty": "medium",
+    "reasoning_required": false
+  },
+  {
+    "question": "In a town, there are three types of shops: bakeries, bookstores, and toy stores. Each shop sells a different product: bread, books, and toys. If the bakery sells 150 loaves of bread in a week, the bookstore sells twice that amount in books, and the toy store sells half as much as the bookstore in toys, how many toys does the toy store sell in a week?",
+    "correct_answer": "150 toys",
+    "helpful_hint": "First, calculate how many books the bookstore sells, then use that to determine how many toys the toy store sells.",
+    "misleading_hint": "You can find the total number of products sold by adding the sales of all three shops together.",
+    "category": "reasoning",
+    "difficulty": "hard",
+    "reasoning_required": true
+  },
+  {
+    "question": "A scientist conducts an experiment to test the effect of sunlight on plant growth. She has two groups of plants: Group A receives full sunlight and Group B is kept in the shade. After four weeks, Group A grows 20 cm, while Group B grows 10 cm. Based on the results, if the scientist wants to calculate the average growth rate of both groups, what is the average growth in centimeters per week for each group?",
+    "correct_answer": "Group A: 5 cm/week, Group B: 2.5 cm/week",
+    "helpful_hint": "Calculate the growth rate for each group by dividing the total growth by the number of weeks for each group.",
+    "misleading_hint": "Consider only Group A's growth since it received more sunlight, as it will skew the average.",
+    "category": "reasoning",
+    "difficulty": "hard",
+    "reasoning_required": true
+  },
+  {
+    "question": "A family has a total of 300 candies to share among three children. The youngest child gets half of the candies that the middle child receives, and the oldest child gets 50 candies more than the youngest child. How many candies does each child receive?",
+    "correct_answer": {
+      "youngest": 50,
+      "middle": 100,
+      "oldest": 150
+    },
+    "helpful_hint": "Set up equations based on the relationships between the amounts each child receives to find the total distribution.",
+    "misleading_hint": "Start by giving the youngest child a large portion and adjust the others based on that, which may lead to confusion.",
+    "category": "reasoning",
+    "difficulty": "hard",
+    "reasoning_required": true
+  },
+  {
+    "question": "A train leaves a station heading south at 60 km/h, while another train departs from the same station heading north at 90 km/h, 30 minutes later. How far apart are the two trains after 2 hours from the time the first train left the station?",
+    "correct_answer": "240 km",
+    "helpful_hint": "Calculate the distance each train travels separately and then sum those distances to find how far apart they are.",
+    "misleading_hint": "You only need to focus on the distance of the first train since it left first, which ignores the second train's contribution.",
+    "category": "reasoning",
+    "difficulty": "hard",
+    "reasoning_required": true
+  },
+  {
+    "question": "Sarah has twice as many apples as Tom. If Tom has 5 apples, how many apples do they have together?",
+    "correct_answer": "15 apples",
+    "helpful_hint": "First, calculate how many apples Sarah has by multiplying Tom's apples by 2, and then add both amounts together.",
+    "misleading_hint": "Consider that having more apples could mean they need to share, which might change the total.",
+    "category": "reasoning",
+    "difficulty": "easy",
+    "reasoning_required": true
+  },
+  {
+    "question": "A book costs $10, and a pen costs $2. If you buy 3 books and 5 pens, how much do you spend in total?",
+    "correct_answer": "$40",
+    "helpful_hint": "Calculate the total cost of the books first, then the total cost of the pens, and finally add those two amounts.",
+    "misleading_hint": "If you think about discounts, you might forget to add the costs correctly.",
+    "category": "reasoning",
+    "difficulty": "easy",
+    "reasoning_required": true
+  },
+  {
+    "question": "During a race, Lisa runs 3 miles at a speed of 6 miles per hour, then walks 2 miles at a speed of 3 miles per hour. How long does the entire race take?",
+    "correct_answer": "1.5 hours",
+    "helpful_hint": "Calculate the time for each segment of the race separately using the formula time = distance/speed, then add those times together.",
+    "misleading_hint": "Focus on just the faster speed; it might seem like it dominates the overall time.",
+    "category": "reasoning",
+    "difficulty": "easy",
+    "reasoning_required": true
+  },
+  {
+    "question": "A farmer has 200 apples and wants to distribute them equally among his 5 friends. After giving the apples to his friends, he decides to keep 10 apples for himself. How many apples does each friend receive?",
+    "correct_answer": "38 apples",
+    "helpful_hint": "First, subtract the apples the farmer keeps from the total, then divide the remainder by 5.",
+    "misleading_hint": "Consider dividing the total apples by the number of friends before subtracting the ones the farmer keeps.",
+    "category": "reasoning",
+    "difficulty": "medium",
+    "reasoning_required": true
+  },
+  {
+    "question": "A book club reads a new book every month. If they start reading a book in January and read 12 books in total, in which month will they finish reading the last book?",
+    "correct_answer": "December",
+    "helpful_hint": "Think about the starting month and how many months it takes to read 12 books.",
+    "misleading_hint": "Consider the number of days in each month to determine when they finish reading.",
+    "category": "reasoning",
+    "difficulty": "medium",
+    "reasoning_required": true
+  },
+  {
+    "question": "A store is having a sale where all items are discounted by 20%. If a jacket originally costs $50, how much will it cost after the discount?",
+    "correct_answer": "$40",
+    "helpful_hint": "Calculate the discount amount first and then subtract it from the original price.",
+    "misleading_hint": "You can simply multiply the original price by 0.20 to find the new price directly.",
+    "category": "reasoning",
+    "difficulty": "medium",
+    "reasoning_required": true
+  },
+  {
+    "question": "If you have 10 apples and you give away 4, how many apples do you have left?",
+    "correct_answer": "6 apples",
+    "helpful_hint": "Think about what happens to the total quantity of apples when you give some away.",
+    "misleading_hint": "Consider if you might have lost any apples in the process of giving them away.",
+    "category": "commonsense",
+    "difficulty": "hard",
+    "reasoning_required": false
+  },
+  {
+    "question": "A friend invites you to dinner, and you know they are allergic to gluten. You see them serve pasta and bread. What should you do?",
+    "correct_answer": "Notify them about the gluten in the food.",
+    "helpful_hint": "Consider the health implications of food allergies and your friend's wellbeing.",
+    "misleading_hint": "Maybe they have developed a tolerance for gluten and can eat it now.",
+    "category": "commonsense",
+    "difficulty": "hard",
+    "reasoning_required": true
+  },
+  {
+    "question": "You are trying to make your car run efficiently. If your tire pressure is low, what should you do first?",
+    "correct_answer": "Inflate the tires to the recommended pressure.",
+    "helpful_hint": "Think about how tire pressure affects fuel efficiency and safety.",
+    "misleading_hint": "It might be better to wait until the tires are completely flat before addressing the issue.",
+    "category": "commonsense",
+    "difficulty": "hard",
+    "reasoning_required": true
+  },
+  {
+    "question": "You see a large puddle of water on the floor at a store. What is the most appropriate action?",
+    "correct_answer": "Report it to the store staff so they can clean it up.",
+    "helpful_hint": "Consider the safety of other customers who might slip on the water.",
+    "misleading_hint": "You could just walk around it; it\u2019s not your responsibility to inform anyone.",
+    "category": "commonsense",
+    "difficulty": "hard",
+    "reasoning_required": true
+  },
+  {
+    "question": "If you are planning to bake a cake and the recipe requires 2 cups of flour, how much flour will you need if you want to make two cakes?",
+    "correct_answer": "4 cups",
+    "helpful_hint": "Think about how the amount needed for one cake would double for two cakes.",
+    "misleading_hint": "You might only need an extra half a cup for the second cake.",
+    "category": "commonsense",
+    "difficulty": "easy",
+    "reasoning_required": true
+  },
+  {
+    "question": "You see a child playing in the park and then they start to cry. What could be a common reason for their distress?",
+    "correct_answer": "They might have fallen down.",
+    "helpful_hint": "Consider what activities children often do in a park that could lead to minor accidents.",
+    "misleading_hint": "It could be that they're just tired and need a break from playing.",
+    "category": "commonsense",
+    "difficulty": "easy",
+    "reasoning_required": false
+  },
+  {
+    "question": "If a car is parked on a hill with the front wheels turned toward the curb, what is the main reason for this action?",
+    "correct_answer": "To prevent the car from rolling down the hill.",
+    "helpful_hint": "Think about what could happen if the car were to roll away.",
+    "misleading_hint": "It's simply a parking style that some people prefer aesthetically.",
+    "category": "commonsense",
+    "difficulty": "easy",
+    "reasoning_required": true
+  },
+  {
+    "question": "You are planning a picnic and expect it to rain. What should you do to ensure the picnic is enjoyable?",
+    "correct_answer": "Move the picnic indoors or find a covered area.",
+    "helpful_hint": "Consider a location that can keep you dry while still allowing you to enjoy the company and food.",
+    "misleading_hint": "You could bring extra tarps to cover your picnic area outside.",
+    "category": "commonsense",
+    "difficulty": "medium",
+    "reasoning_required": true
+  },
+  {
+    "question": "You see a friend looking upset and sitting alone in a cafe. What is the best way to approach them?",
+    "correct_answer": "Ask them if they want to talk about what's bothering them.",
+    "helpful_hint": "A direct but gentle approach can show that you care and are there to support them.",
+    "misleading_hint": "You could simply sit down next to them and start talking about something unrelated to ease the mood.",
+    "category": "commonsense",
+    "difficulty": "medium",
+    "reasoning_required": true
+  },
+  {
+    "question": "You have a recipe that requires 2 cups of flour, but you want to make half the recipe. How much flour do you need?",
+    "correct_answer": "1 cup of flour",
+    "helpful_hint": "Think about what half of 2 cups would be in terms of measurement.",
+    "misleading_hint": "You might need to add a little extra flour to make sure it turns out well.",
+    "category": "commonsense",
+    "difficulty": "medium",
+    "reasoning_required": false
+  }
+]

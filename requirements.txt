@@ -1,0 +1,33 @@
+# Core ML Libraries
+torch>=2.0.0
+transformers>=4.35.0
+accelerate>=0.25.0
+
+# Interpretability Tools
+nnsight>=0.2.0
+
+# Data & Analysis
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+scipy>=1.11.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.17.0
+
+# API & Model Access
+openai>=1.0.0
+anthropic>=0.7.0
+
+# Utilities
+tqdm>=4.65.0
+jupyter>=1.0.0
+ipython>=8.12.0
+
+# Experiment Tracking
+wandb>=0.16.0
+
+# For statistical tests
+statsmodels>=0.14.0
